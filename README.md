@@ -1,4 +1,10 @@
 <div align="center">
+
+<img width="292" height="59" alt="fictkin" src="https://file.garden/ZroW4OcqSGtS0a5j/userbox.png" /><img width="292" height="59" alt="fictkin" src="https://file.garden/ZroW4OcqSGtS0a5j/userbox%20(1).png" />
+
+</p>
+
+<div align="center">
   
 <img width="300" height="300" alt="ezgif com-resize (2)" src="https://file.garden/ZroW4OcqSGtS0a5j/mrfishsandwhich.gif" />
 
