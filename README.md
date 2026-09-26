@@ -10,6 +10,12 @@
 
 </p>
 
+<div align="center">
+
+<img width="468" height="159" alt="Untitled252_20260926164555" src="https://github.com/user-attachments/assets/9af3bca8-e773-496f-8f5a-30914a64dbd8" />
+
+</p>
+
 <img width="610" height="61" alt="sweeeeeet" src="https://github.com/user-attachments/assets/46476bd9-1abf-4d4b-879f-e1b02c1bba53" />
 
 ***
