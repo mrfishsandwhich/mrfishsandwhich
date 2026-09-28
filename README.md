@@ -5,6 +5,13 @@
 </p>
 
 <div align="center">
+
+<img width="202" height="274" alt="Screenshot_2026-09-27-11-48-07-04" src="https://github.com/user-attachments/assets/c34ab4cc-fdcd-44d4-8668-d098fb03e253" />
+
+</p>
+
+
+<div align="center">
   
 <img width="300" height="300" alt="ezgif com-resize (2)" src="https://file.garden/ZroW4OcqSGtS0a5j/mrfishsandwhich.gif" />
 
