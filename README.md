@@ -12,6 +12,15 @@
 
 <div align="center">
 
+<a
+href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=900&height=100&backgroundColor=%23d40000&backgroundOpacity=0.9&cursorStyle=block&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22And+now+look+at+%27em%2C+Look+at+%27em+now%2C+look+at+%27em%2C+sting%22%2C%22font%22%3A%22Felipa%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.06666666666666667%2C%22deleteSpeed%22%3A0.0625%7D%2C%7B%22text%22%3A%22And+now+look+at+%27em%2C+Look+at+%27em+now%2C+look+at+%27em%2C+sting%22%2C%22font%22%3A%22Felipa%22%2C%22color%22%3A%22%237a0000%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.06666666666666667%2C%22deleteSpeed%22%3A0.0625%7D%2C%7B%22text%22%3A%22And+now+look+at+%27em%2C+Look+at+%27em+now%2C+look+at+%27em%2C+sting%22%2C%22font%22%3A%22Felipa%22%2C%22color%22%3A%22%235e0000%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.06666666666666667%2C%22deleteSpeed%22%3A0.0625%7D%2C%7B%22text%22%3A%22And+now+look+at+%27em%2C+Look+at+%27em+now%2C+look+at+%27em%2C+sting%22%2C%22font%22%3A%22Felipa%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.06666666666666667%2C%22deleteSpeed%22%3A0.0625%7D%5D" alt="Typing SVG" />
+
+</a>
+
+</p>
+
+<div align="center">
+
 <img width="202" height="274" alt="Screenshot_2026-09-27-11-48-07-04" src="https://github.com/user-attachments/assets/c34ab4cc-fdcd-44d4-8668-d098fb03e253" />
 
 </p>
