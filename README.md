@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="320" height="180" alt="rx queen" src="https://file.garden/ZroW4OcqSGtS0a5j/rx%20queen.gif" />
+<img width="520" height="280" alt="rx queen" src="https://file.garden/ZroW4OcqSGtS0a5j/rx%20queen.gif" />
 
 </p>
 
